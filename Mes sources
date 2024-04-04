@@ -1,0 +1,6 @@
+Pour zsh:
+- Faites des alias dans .zshrc
+
+```
+alias comp='cc -Wall -Wextra -Werror'
+```
