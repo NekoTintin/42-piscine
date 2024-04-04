@@ -1,6 +1,6 @@
 Pour zsh:
 - Faites des alias dans .zshrc
 
-```
+```bash
 alias comp='cc -Wall -Wextra -Werror'
 ```
