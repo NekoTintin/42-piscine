@@ -45,9 +45,9 @@ void	rush(int x, int y)
 	{
 		return ;
 	}
-	while (cur_y <= y)
+	while (cur_y < y)
 	{
-		while (cur_x <= x)
+		while (cur_x < x)
 		{
 			ft_putchar(ft_selectchar(x, y, cur_x, cur_y));
 			cur_x++;
