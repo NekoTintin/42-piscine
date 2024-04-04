@@ -1,0 +1,10 @@
+Pour zsh:
+- Faites des alias dans .zshrc
+
+```bash
+alias comp='cc -Wall -Wextra -Werror'
+```
+
+- [Pour modifier le prompt](https://zsh-prompt-generator.site/)
+
+- [Table Ascii](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.wikipedia.org%2Fwiki%2FFichier%3AASCII-Table-wide.svg&psig=AOvVaw3_6DIo_Xgh1Mq0iX2mvHmY&ust=1712336739787000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPiAvsqFqYUDFQAAAAAdAAAAABAE)
